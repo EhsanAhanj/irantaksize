@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/dashboard/views/D2/D2.jsx"],"names":["D2"],"mappings":"6GAAA,2BAUeA,UARJ,WACT,OACE,6BACE","file":"static/js/14.b8606c9e.chunk.js","sourcesContent":["import React from \"react\";\n\nconst D2 = () => {\n  return (\n    <div>\n      <h1>salam ax D!</h1>\n    </div>\n  );\n};\n\nexport default D2;\n"],"sourceRoot":""}

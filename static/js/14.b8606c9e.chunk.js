@@ -1,0 +1,2 @@
+(this.webpackJsonpirantaksize=this.webpackJsonpirantaksize||[]).push([[14],{809:function(a,e,n){"use strict";n.r(e);var t=n(1),i=n.n(t);e.default=function(){return i.a.createElement("div",null,i.a.createElement("h1",null,"salam ax D!"))}}}]);
+//# sourceMappingURL=14.b8606c9e.chunk.js.map
